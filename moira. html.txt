@@ -1,0 +1,74 @@
+<!doctype html>
+<html>
+
+<head>
+  <title>Blog</title>
+</head>
+
+<body>
+  <h1>
+    Moira O'Deorain
+  </h1>
+  <figure>
+    <img width="400" height="265" src="https://hdqwalls.com/wallpapers/moira-overwatch-2017-kb.jpg"
+      alt="Image showing Moira in her POTG animation">
+    <figcaption>Moira's design in Overwatch 1</figcaption>
+    <img width="400" height="265"
+      src="https://d.ibtimes.com/en/full/3839885/overwatch-2-moira.jpg?w=736&f=81358cbc3a5badc4ed061a461744098e"
+      alt="Image showing Moira in her POTG animation">
+    <figcaption>Moira's design in Overwatch 2</figcaption>
+  </figure>
+  <h2>
+    Lore
+  </h2>
+  <p>
+    Moira O'Deorain is a person of Irish heritage who originally worked for Blackwatch, a division of Overwatch that
+    focused primarily on secret missions. Unfortunately, she was kicked out for her unethical experiments that, in her
+    opinion, are essential to push humanity's limits, which coincided with Doomfist's goal. Afterward, she was recruited
+    into Talon, a terrorist organization, that gave her a deal: resources that went toward her experiments in exchange
+    for her talent. Currently, she is one of the leaders of Talon alongside Doomfist and was responsible for giving
+    Reaper his mist powers as well as brainwashing Widowmaker and Sigma into joining her organization.
+  </p>
+  <h2>
+    Moira's Stats and Abilities
+  </h2>
+  <p>
+    <strong>Healthbar Division:</strong>
+  </p>
+  <ul>
+    <li>200 Health</li>
+    <li>0 Armor</li>
+    <li>0 Shields</li>
+  </ul>
+  <p>
+    <strong>Biotic Grasp:</strong>
+  </p>
+  <ul>
+    <li>50 dmg/second</li>
+    <li>70 healing/second then heals for 17.5/second for 2 seconds</li>
+    <li>replenishes biotic energy more quickly than passive regeneration</li>
+    <li>damage portion of the ability acts like a hitscan</li>
+    <li>healing portion of the ability acts like a projectile</li>
+    <li>Both healing and damage portion of the ability acts like a beam, and as such it goes through matrix, but does
+      not pass through shield </li>
+  </ul>
+  <ul>
+    <li>best superhero
+      <ol>
+        <li>spiderman</li>
+        <li>batman</li>
+        <li>thor</li>
+      </ol>
+    <li>best videogames
+      <ol>
+        <li>splatoon</li>
+        <li>plants vs. zombies garden warfare 2</li>
+        <li>paper mario: thousand-year door</li>
+      </ol>
+    </li>
+    </li>
+  </ul>
+  <a href="/mei.html">Click here</a>
+</body>
+
+</html>
